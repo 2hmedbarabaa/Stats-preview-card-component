@@ -65,7 +65,4 @@ In my future projects, I intend to focus on:
 - Expanding component layouts using standard CSS Grid layouts for multi-axis landing pages.
 - Enforcing stricter engineering guidelines regarding fluid scale systems using `clamp()` instead of fixed breakpoint steps.
 
-## Author
 
-- Frontend Mentor - [@YourUsername](https://www.frontendmentor.io/profile/YourUsername)
-- Twitter/X - [@YourTwitter](https://www.twitter.com/YourTwitter)
